@@ -22,9 +22,5 @@ const Body = styled.div`
     align-items: center;
     justify-content: center;
 `;
-const Footer = styled.div`
-    background: #daf7a6;
-    width: 100%;
-    height: 5%;
-`;
-export {Contenedor, Header, Body, Footer}
+
+export {Contenedor, Header, Body}

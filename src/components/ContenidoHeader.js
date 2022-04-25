@@ -25,8 +25,8 @@ const Contenedor = styled.div`
 
 `
 const Imagen = styled.img`
-    height:100%;
-    width:90%;
+    height:95%;
+    width:85%;
     text-align: center;
 
 `

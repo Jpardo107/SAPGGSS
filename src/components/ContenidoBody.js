@@ -52,8 +52,8 @@ const ContenedorNavegacion = styled.div`
    margin-bottom: 40px;
 `
 const Main = styled.div`
-    width: 90%;
-    height: 100%;
+    width: 100%;
+    height: 55vh;
     background: #012056;
     padding: 20px;
     border-radius: 10px;
