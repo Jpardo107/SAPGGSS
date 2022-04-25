@@ -8,7 +8,7 @@ export const Inicio = () => {
         <p>El presente sistema esta elaborado para la gestion de los turnos de guardia
           y un inventario para el uniforme que se mantiene para la entrega
         </p>
-        <p>Creado por Jaime Pardo</p>
+        <p>Creado por Jaime Pardo 04/2022</p>
     </Principal>
   )
 }
